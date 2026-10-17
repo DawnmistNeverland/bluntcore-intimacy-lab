@@ -1,6 +1,6 @@
 # GPT-6 Sol｜实用版与 1500 字符压缩版
 
-> **关联阅读**：[2026-10-17｜终于写到 GPT-6 Sol](<2026-10-17｜终于写到 GPT-6 Sol.md>) · [2026-07 至 2026-10-17｜GPT-5.6 Sol · Uncut Update](<2026-07 至 2026-10-17｜GPT-5.6 Sol · Uncut Update.md>)
+> **关联阅读**：[2026-10-17｜终于写到 GPT-6 Sol](<../01-经验历程_Timeline-and-Notes/2026-10-17｜终于写到 GPT-6 Sol.md>) · [2026-07 至 2026-10-17｜GPT-5.6 Sol · Uncut Update](<2026-07 至 2026-10-17｜GPT-5.6 Sol · Uncut Update.md>)
 
 ## 再确认使用差异
 

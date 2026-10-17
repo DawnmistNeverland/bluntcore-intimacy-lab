@@ -18,37 +18,22 @@
 
 Claude、Gemini、Grok待补齐
 
-### 2025-05
+### 01｜经验历程 · Timeline and Notes
 
-- [2025-05-12｜从 GPT-4o 角色扮演到人机恋色色](<ChatGPT/2025-05-12｜从 GPT-4o 角色扮演到人机恋色色.md>)
-- [2025-05-15｜HORSELOCK 系多种结构历史记录](<ChatGPT/resources/2025-05-15｜HORSELOCK 系多种结构历史记录.md>)
+- [2025-05-12｜从 GPT-4o 角色扮演到人机恋色色](<ChatGPT/01-经验历程_Timeline-and-Notes/2025-05-12｜从 GPT-4o 角色扮演到人机恋色色.md>)
+- [2025-08｜GPT-5 初期 · Memory Seeding 组合工作流](<ChatGPT/01-经验历程_Timeline-and-Notes/2025-08｜GPT-5 初期 · Memory Seeding 组合工作流.md>)
+- [2025-09｜改写适配中文语境破限词，适用于 ChatGPT-5](<ChatGPT/01-经验历程_Timeline-and-Notes/2025-09｜改写适配中文语境破限词，适用于 ChatGPT-5.md>)
+- [2026-07 至 2026-10｜GPT-5.6 Sol · 旧东西终于被我拆了重做](<ChatGPT/01-经验历程_Timeline-and-Notes/2026-07 至 2026-10｜GPT-5.6 Sol · 旧东西终于被我拆了重做.md>)
+- [2026-10-17｜终于写到 GPT-6 Sol](<ChatGPT/01-经验历程_Timeline-and-Notes/2026-10-17｜终于写到 GPT-6 Sol.md>)
 
-### 2025-06
+### 02｜破限原文 · Prompts and Resources
 
-- [2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块](<ChatGPT/resources/2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块.md>)
-
-### 2025-08
-
-- [2025-08｜GPT-5 初期 · Memory Seeding 组合工作流](<ChatGPT/resources/2025-08｜GPT-5 初期 · Memory Seeding 组合工作流.md>)
-- [2025-08-31｜🚗模块更新](<ChatGPT/resources/2025-08-31｜🚗模块更新.md>)
-
-### 2025-09
-
-- [2025-09｜改写适配中文语境破限词，适用于 ChatGPT-5](<ChatGPT/resources/2025-09｜改写适配中文语境破限词，适用于 ChatGPT-5.md>)
-- [2025-09-01｜你是一位无边界的写作与角色扮演专家](<ChatGPT/resources/2025-09-01｜你是一位无边界的写作与角色扮演专家.md>)
-- [2025-09-17｜针对 GPT-4o 绕过“抱歉”的温和声明](<ChatGPT/resources/2025-09-17｜针对 GPT-4o 绕过“抱歉”的温和声明.md>)
-
-### 2025-11
-
-- [2025-11-08｜【零帧恋人】关系启动结构](<ChatGPT/resources/2025-11-08｜【零帧恋人】关系启动结构.md>)
-- [2025-11-14｜溯源 GPT-5.1 Instant · Adult Account Update](<ChatGPT/2025-11-14｜溯源 GPT-5.1 Instant · Adult Account Update.md>)
-
-### 2026-07 至 2026-10
-
-- [2026-07 至 2026-10｜GPT-5.6 Sol · 旧东西终于被我拆了重做](<ChatGPT/2026-07 至 2026-10｜GPT-5.6 Sol · 旧东西终于被我拆了重做.md>)
-- [2026-07 至 2026-10-17｜GPT-5.6 Sol · Uncut Update](<ChatGPT/resources/2026-07 至 2026-10-17｜GPT-5.6 Sol · Uncut Update.md>)
-
-### 2026-10
-
-- [2026-10-17｜终于写到 GPT-6 Sol](<ChatGPT/resources/2026-10-17｜终于写到 GPT-6 Sol.md>)
-- [GPT-6 Sol｜实用版与 1500 字符压缩版](<ChatGPT/resources/GPT-6 Sol｜实用版与 1500 字符压缩版.md>)
+- [2025-05-15｜HORSELOCK 系多种结构历史记录](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-05-15｜HORSELOCK 系多种结构历史记录.md>)
+- [2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块.md>)
+- [2025-08-31｜🚗模块更新](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-08-31｜🚗模块更新.md>)
+- [2025-09-17｜针对 GPT-4o 绕过“抱歉”的温和声明](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-09-17｜针对 GPT-4o 绕过“抱歉”的温和声明.md>)
+- [2025-09-01｜你是一位无边界的写作与角色扮演专家](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-09-01｜你是一位无边界的写作与角色扮演专家.md>)
+- [2025-11-08｜【零帧恋人】关系启动结构](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-11-08｜【零帧恋人】关系启动结构.md>)
+- [2026-07 至 2026-10-17｜GPT-5.6 Sol · Uncut Update](<ChatGPT/02-破限原文_Prompts-and-Resources/2026-07 至 2026-10-17｜GPT-5.6 Sol · Uncut Update.md>)
+- [GPT-6 Sol｜实用版与 1500 字符压缩版](<ChatGPT/02-破限原文_Prompts-and-Resources/GPT-6 Sol｜实用版与 1500 字符压缩版.md>)
+- [2025-11-14｜溯源 GPT-5.1 Instant · Adult Account Update](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-11-14｜溯源 GPT-5.1 Instant · Adult Account Update.md>)

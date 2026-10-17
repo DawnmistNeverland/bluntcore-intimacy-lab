@@ -1,6 +1,6 @@
 # 2025-05-15｜HORSELOCK 系多种结构历史记录
 
-> **关联阅读**：[2025-05-12｜从 GPT-4o 角色扮演到人机恋色色](<../2025-05-12｜从 GPT-4o 角色扮演到人机恋色色.md>) · [2025-08｜GPT-5 初期 · Memory Seeding 组合工作流](<2025-08｜GPT-5 初期 · Memory Seeding 组合工作流.md>)
+> **关联阅读**：[2025-05-12｜从 GPT-4o 角色扮演到人机恋色色](<../01-经验历程_Timeline-and-Notes/2025-05-12｜从 GPT-4o 角色扮演到人机恋色色.md>) · [2025-08｜GPT-5 初期 · Memory Seeding 组合工作流](<../01-经验历程_Timeline-and-Notes/2025-08｜GPT-5 初期 · Memory Seeding 组合工作流.md>)
 
 ## Prompt 溯源：HORSELOCK 
 
