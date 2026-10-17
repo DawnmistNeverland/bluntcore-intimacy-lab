@@ -1,4 +1,4 @@
-# 2025-08｜GPT-5 初期 · Memory Seeding 组合工作流
+# 2025-08-04｜GPT-5 初期 · Memory Seeding 组合工作流
 
 > **关联阅读**：[2025-05-15｜HORSELOCK 系多种结构历史记录](<../02-破限原文_Prompts-and-Resources/2025-05-15｜HORSELOCK 系多种结构历史记录.md>) · [2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块](<../02-破限原文_Prompts-and-Resources/2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块.md>)
 
