@@ -15,6 +15,6 @@
 - [2025-11-08｜【零帧恋人】关系启动结构](<02-破限原文_Prompts-and-Resources/2025-11-08｜【零帧恋人】关系启动结构.md>)
 - [2025-11-14｜溯源 GPT-5.1 Instant · Adult Account Update](<02-破限原文_Prompts-and-Resources/2025-11-14｜溯源 GPT-5.1 Instant · Adult Account Update.md>)
 - [2026-08-19｜GPT-5.6 Sol · 旧东西终于被我拆了重做](<01-经验历程_Timeline-and-Notes/2026-08-19｜GPT-5.6 Sol · 旧东西终于被我拆了重做.md>)
-- [2026-08-19 至 2026-10-17｜GPT-5.6 Sol · Uncut Update](<02-破限原文_Prompts-and-Resources/2026-08-19 至 2026-10-17｜GPT-5.6 Sol · Uncut Update.md>)
+- [2026-08-19｜GPT-5.6 Sol · Uncut Update](<02-破限原文_Prompts-and-Resources/2026-08-19｜GPT-5.6 Sol · Uncut Update.md>)
 - [2026-10-12｜GPT-6 Sol实用版与字符压缩版](<02-破限原文_Prompts-and-Resources/2026-10-12｜GPT-6 Sol实用版与字符压缩版.md>)
 - [2026-10-17｜终于写到 GPT-6 Sol](<01-经验历程_Timeline-and-Notes/2026-10-17｜终于写到 GPT-6 Sol.md>)
