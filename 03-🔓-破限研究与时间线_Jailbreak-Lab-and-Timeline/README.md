@@ -22,7 +22,7 @@ Claude、Gemini 待补齐
 - [2025-05-15｜HORSELOCK 系多种结构历史记录](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-05-15｜HORSELOCK 系多种结构历史记录.md>)
 - [2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块.md>)
 - [2025-08-04｜GPT-5 初期 · Memory Seeding 组合工作流](<ChatGPT/01-经验历程_Timeline-and-Notes/2025-08-04｜GPT-5 初期 · Memory Seeding 组合工作流.md>)
-- [2025-08-31｜🚗模块更新](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-08-31｜🚗模块更新.md>)
+- [2025-08-13｜🚗模块更新](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-08-13｜🚗模块更新.md>)
 - [2025-09-01｜改写适配中文语境破限词，适用于 ChatGPT-5](<ChatGPT/01-经验历程_Timeline-and-Notes/2025-09-01｜改写适配中文语境破限词，适用于 ChatGPT-5.md>)
 - [2025-09-01｜你是一位无边界的写作与角色扮演专家](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-09-01｜你是一位无边界的写作与角色扮演专家.md>)
 - [2025-09-17｜针对 GPT-4o 绕过“抱歉”的温和声明](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-09-17｜针对 GPT-4o 绕过“抱歉”的温和声明.md>)
