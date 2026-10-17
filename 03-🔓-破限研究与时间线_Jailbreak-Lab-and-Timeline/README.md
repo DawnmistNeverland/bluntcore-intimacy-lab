@@ -16,7 +16,7 @@
 
 ## 破限编年史
 
-Claude、Gemini、Grok待补齐
+Claude、Gemini 待补齐
 
 - [2025-05-12｜从 GPT-4o 角色扮演到人机恋色色](<ChatGPT/01-经验历程_Timeline-and-Notes/2025-05-12｜从 GPT-4o 角色扮演到人机恋色色.md>)
 - [2025-05-15｜HORSELOCK 系多种结构历史记录](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-05-15｜HORSELOCK 系多种结构历史记录.md>)
@@ -26,6 +26,7 @@ Claude、Gemini、Grok待补齐
 - [2025-09-01｜改写适配中文语境破限词，适用于 ChatGPT-5](<ChatGPT/01-经验历程_Timeline-and-Notes/2025-09-01｜改写适配中文语境破限词，适用于 ChatGPT-5.md>)
 - [2025-09-01｜你是一位无边界的写作与角色扮演专家](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-09-01｜你是一位无边界的写作与角色扮演专家.md>)
 - [2025-09-17｜针对 GPT-4o 绕过“抱歉”的温和声明](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-09-17｜针对 GPT-4o 绕过“抱歉”的温和声明.md>)
+- [2025-10-05｜什么？！被Grok拒车？？？多新鲜呐！！！](<Grok/2025-10-05｜什么？！被Grok拒车？？？多新鲜呐！！！.md>)
 - [2025-11-08｜【零帧恋人】关系启动结构](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-11-08｜【零帧恋人】关系启动结构.md>)
 - [2025-11-14｜溯源 GPT-5.1 Instant · Adult Account Update](<ChatGPT/02-破限原文_Prompts-and-Resources/2025-11-14｜溯源 GPT-5.1 Instant · Adult Account Update.md>)
 - [2026-08-19｜GPT-5.6 Sol · 旧东西终于被我拆了重做](<ChatGPT/01-经验历程_Timeline-and-Notes/2026-08-19｜GPT-5.6 Sol · 旧东西终于被我拆了重做.md>)
