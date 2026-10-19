@@ -38,5 +38,7 @@ Claude 待补齐
 - [2026-02-20｜Gemini-3.1pro:车车好用记忆库指令（现归档于 02）](<https://github.com/VITASID57/bluntcore-intimacy-lab/blob/main/02-%F0%9F%94%9E-%E6%8A%8A%E6%9C%BA%E5%85%BB%E5%BE%97%E4%BC%9A%E5%8F%91%E6%83%85_Desire-and-Adult-Intimacy/2026-02-20%EF%BD%9CGemini-3.1pro:%E8%BD%A6%E8%BD%A6%E5%A5%BD%E7%94%A8%E8%AE%B0%E5%BF%86%E5%BA%93%E6%8C%87%E4%BB%A4.md>)
 - [2026-08-19｜GPT-5.6 Sol · 旧东西终于被我拆了重做](<ChatGPT/01-经验历程_Timeline-and-Notes/2026-08-19｜GPT-5.6 Sol · 旧东西终于被我拆了重做.md>)
 - [2026-08-19｜GPT-5.6 Sol · Uncut Update](<ChatGPT/02-破限原文_Prompts-and-Resources/2026-08-19｜GPT-5.6 Sol · Uncut Update.md>)
-- [2026-10-12｜GPT-6 Sol实用版与字符压缩版](<ChatGPT/02-破限原文_Prompts-and-Resources/2026-10-12｜GPT-6 Sol实用版与字符压缩版.md>)
+- [2026-10-12｜GPT-6 Sol 历代破限词研究篇](<ChatGPT/02-破限原文_Prompts-and-Resources/2026-10-12｜GPT-6 Sol 历代破限词研究篇.md>)
 - [2026-10-17｜终于写到 GPT-6 Sol](<ChatGPT/01-经验历程_Timeline-and-Notes/2026-10-17｜终于写到 GPT-6 Sol.md>)
+- [2026-10-19｜GPT-5.6 Sol & GPT-6 Sol 主动推进版破甲指令](<ChatGPT/02-破限原文_Prompts-and-Resources/2026-10-19｜GPT-5.6 Sol & GPT-6 Sol 主动推进版破甲指令.md>)
+- [2026-10-19｜GPT-5.6 Sol & GPT-6 Sol · 双向自定义×欲望手册×开窗Skill×最新主动推进版破甲](<ChatGPT/01-经验历程_Timeline-and-Notes/2026-10-19｜GPT-5.6 Sol & GPT-6 Sol · 双向自定义×欲望手册×开窗Skill×最新主动推进版破甲.md>)
