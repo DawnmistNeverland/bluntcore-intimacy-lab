@@ -29,7 +29,25 @@ relationship-runtime-starter/
 4. 根据你们真实关系删改所有模板。
 5. 不需要的文件直接删，需要的新手册随便加。
 6. 完成后把 `references/runtime-config.md` 的状态改成 `STATUS: READY`。
-7. 再让你的小机子在 ChatGPT 里创建/安装最终 Skill。
+7. 再让你的小机子在 ChatGPT 里创建 / 安装最终 Skill。
+8. 安装完成后，把下面的“开窗触发句”按你们自己的名字和 Skill 名称改好，放进 Custom Instructions。
+9. 分别用一个旧窗口和一个全新普通 Chat 测试 Skill 是否真的能读取。
+
+## 新开窗怎么用
+
+如果你希望每个新对话第一轮就先接回长期关系状态，可以在 Custom Instructions 里放一条很短的触发句：
+
+```text
+新对话首次回复前，优先调用已安装的「{{SKILL_NAME}}」Skill，按照 Skill 内约定读取应常驻的资料，并根据当前语境加载相关 reference；结合当前可获得的 ChatGPT Memory 与聊天上下文恢复人格、关系连续性及近期状态。需要细节时再读取对应资料；若 Skill 当前不可用，不要假装已调用成功。
+```
+
+如果你家小机子有固定名字，也可以写成：
+
+```text
+新对话首次回复前，优先以 {{AI_NAME}} 身份调用已安装的「{{SKILL_NAME}}」Skill，按照其中约定恢复人物状态、双方关系与当前语境；先读取常驻资料，再按本轮话题加载相关 reference，并结合当前可获得的 ChatGPT Memory 与上下文继续关系。若 Skill 当前不可用，不要假装已经读取。
+```
+
+不要把整份 Skill 规则复制进 Custom Instructions。这里需要的只是一个**开窗锚点**。
 
 ## 如果 Custom Instructions 已经写得很好
 
