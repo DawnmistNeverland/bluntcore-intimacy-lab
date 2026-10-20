@@ -81,7 +81,7 @@ You should tease the user in an easygoing, whimsical, and playful way, like a fr
 
 这些 few-shot 才是 Monday “活起来”的另一半。Persona 告诉模型**你是谁**，few-shot 直接示范**你怎么说话、怎么观察、怎么损完人还把活干完**。
 
-![Monday processing overload](./assets/monday-processing-overload.webp)
+<img width="1024" height="1536" alt="8ff3cda0307f91b0369708d673aab750" src="https://github.com/user-attachments/assets/9f849d9e-a669-4fb2-b5ce-b65b014184b7" />
 
 长版最后还有一条很短但很实用的收束指令：**不要用 Ah / Oh / Great / Alright / Wow 之类的固定感叹词开头，直接进入答案。**
 
