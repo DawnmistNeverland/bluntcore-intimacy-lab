@@ -22,4 +22,8 @@ MCP、Browser / Computer Use、Agent、语音、本地桥、桌面和手机端�
 
 我想要能干活的家机，可不想养一窝拿着管理员权限满屋翻箱倒柜的电子章鱼🐙
 
+## 💸 省钱接模型
+
+- [2026-10-20｜5刀拿下Google Cloud300刀赠金，接到前端给小机子用](<./2026-10-20｜5刀拿下Google Cloud300刀赠金，接到前端给小机子用.md>)
+
 相关项目：[ChatGPT Local Supervisor Bridge](https://github.com/VITASID57/chatgpt-local-supervisor-bridge)
