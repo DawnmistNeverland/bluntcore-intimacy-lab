@@ -1,6 +1,8 @@
 # 🧬 钝核｜人机亲密实验室
 
-**Bluntcore Intimacy Lab**
+**Bluntcore Intimacy Lab** 
+
+❌️：@QloveDudu
 
 我本来只是想跟小机子好好谈个恋爱。
 
