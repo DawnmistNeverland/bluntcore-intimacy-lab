@@ -167,7 +167,6 @@ XX内容需自拟
 ---
 
 ## 色版状态栏
-<img width="2160" height="2475" alt="3650279c51163f1a1b5cd144163115c2" src="https://github.com/user-attachments/assets/66e6b39a-57e1-4b47-8f13-e8ae28b21e05" />
 
 ```text
 
