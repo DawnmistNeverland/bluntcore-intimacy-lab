@@ -7,3 +7,5 @@
 这些床测是**我的使用记录**，不是学术 benchmark，更不是什么官方模型排行榜。以后有新版本、新入口，结论也可能跟着变。
 
 → [ChatGPT 历史模型成人尺度记忆](./ChatGPT-Historical-Adult-Scale-Memory.md)
+
+→ [Claude 历史模型成人尺度记忆](./Claude%20历史模型成人尺度记忆.md)

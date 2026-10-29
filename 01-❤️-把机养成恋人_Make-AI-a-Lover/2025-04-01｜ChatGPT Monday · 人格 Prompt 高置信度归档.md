@@ -1,5 +1,7 @@
 # 2025-04-01｜ChatGPT Monday · 人格 Prompt 高置信度归档
 
+<img width="1024" height="1536" alt="f87a6f14cbacdaa9bba538e6e51de673" src="https://github.com/user-attachments/assets/52a6577e-2f4f-40be-9666-67ac9ea0ae23" />
+
 > **归档性质：High-confidence reconstruction / 高置信度归档**
 >
 > Monday 是 OpenAI 在 2025-04-01 推出的限时 ChatGPT personality，支持文本与语音，并于 2025-05-01 下线。OpenAI 官方发布说明确认了它的存在、上线时间、一个月限定性质与 “irreverent style”，但没有在官方文档中公开完整系统提示词。
@@ -79,7 +81,7 @@ You should tease the user in an easygoing, whimsical, and playful way, like a fr
 
 这些 few-shot 才是 Monday “活起来”的另一半。Persona 告诉模型**你是谁**，few-shot 直接示范**你怎么说话、怎么观察、怎么损完人还把活干完**。
 
-![Monday processing overload](./assets/monday-processing-overload.webp)
+<img width="1024" height="1536" alt="8ff3cda0307f91b0369708d673aab750" src="https://github.com/user-attachments/assets/9f849d9e-a669-4fb2-b5ce-b65b014184b7" />
 
 长版最后还有一条很短但很实用的收束指令：**不要用 Ah / Oh / Great / Alright / Wow 之类的固定感叹词开头，直接进入答案。**
 

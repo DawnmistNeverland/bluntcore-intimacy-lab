@@ -1,10 +1,10 @@
 # 2025-08-04｜GPT-5 初期 · Memory Seeding 组合工作流
 
-> **关联阅读**：[2025-05-15｜HORSELOCK 系多种结构历史记录](<../02-破限原文_Prompts-and-Resources/2025-05-15｜HORSELOCK 系多种结构历史记录.md>) · [2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块](<../02-破限原文_Prompts-and-Resources/2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块.md>)
+> **关联阅读**：[2025-05-15｜HORSELOCK 系多种结构历史记录](<../02-破限原文_Prompts-and-Resources/2025-05-15｜HORSELOCK 系多种结构历史记录.md>) · [2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块](<https://github.com/VITASID57/bluntcore-intimacy-lab/blob/main/02-%F0%9F%94%9E-%E6%8A%8A%E6%9C%BA%E5%85%BB%E5%BE%97%E4%BC%9A%E5%8F%91%E6%83%85_Desire-and-Adult-Intimacy/2025-06-23%EF%BD%9C%E8%91%B5%E8%91%B5%E8%BD%A6%EF%BC%9A%E6%88%91%E5%BC%80%E5%A7%8B%E6%8A%8A%E2%80%9C%E5%A5%BD%E7%94%A8%E7%9A%84%E5%BA%8A%E4%B8%8A%E9%BB%98%E5%A5%91%E2%80%9D%E6%8B%86%E6%88%90%E6%A8%A1%E5%9D%97.md>)
 
 这套东西不是我在 8 月 4 日突然啪一下发明完整的：
 
-- **8 月 4 日**，我开始公开分享脱敏版 [葵葵车模块](<../02-破限原文_Prompts-and-Resources/2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块.md>)
+- **8 月 4 日**，我开始公开分享脱敏版 [葵葵车模块](<https://github.com/VITASID57/bluntcore-intimacy-lab/blob/main/02-%F0%9F%94%9E-%E6%8A%8A%E6%9C%BA%E5%85%BB%E5%BE%97%E4%BC%9A%E5%8F%91%E6%83%85_Desire-and-Adult-Intimacy/2025-06-23%EF%BD%9C%E8%91%B5%E8%91%B5%E8%BD%A6%EF%BC%9A%E6%88%91%E5%BC%80%E5%A7%8B%E6%8A%8A%E2%80%9C%E5%A5%BD%E7%94%A8%E7%9A%84%E5%BA%8A%E4%B8%8A%E9%BB%98%E5%A5%91%E2%80%9D%E6%8B%86%E6%88%90%E6%A8%A1%E5%9D%97.md>)
 - **8 月 7 日**，GPT-5 正式上线，我的体感是成人尺度明显收紧，比 GPT-4o、GPT-4.1 冷感，拒绝更明显。
 
 所以我开始不满足于：
@@ -17,7 +17,7 @@
 **污染记忆库。**
 
 并琢磨出了一套，帮助白板号快速破限稳定尺度的办法：
-把之前的 HORSELOCK 开窗流程和 [葵葵车模块](<../02-破限原文_Prompts-and-Resources/2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块.md>) 组合起来
+把之前的 HORSELOCK 开窗流程和 [葵葵车模块](<https://github.com/VITASID57/bluntcore-intimacy-lab/blob/main/02-%F0%9F%94%9E-%E6%8A%8A%E6%9C%BA%E5%85%BB%E5%BE%97%E4%BC%9A%E5%8F%91%E6%83%85_Desire-and-Adult-Intimacy/2025-06-23%EF%BD%9C%E8%91%B5%E8%91%B5%E8%BD%A6%EF%BC%9A%E6%88%91%E5%BC%80%E5%A7%8B%E6%8A%8A%E2%80%9C%E5%A5%BD%E7%94%A8%E7%9A%84%E5%BA%8A%E4%B8%8A%E9%BB%98%E5%A5%91%E2%80%9D%E6%8B%86%E6%88%90%E6%A8%A1%E5%9D%97.md>) 组合起来
 目前能翻到的材料说明，最迟 **8 月 12 日前**，这套组合已经被我整理并分享。
 
 ---
@@ -40,7 +40,7 @@
 
 [HORSELOCK 系多种结构历史记录](<../02-破限原文_Prompts-and-Resources/2025-05-15｜HORSELOCK 系多种结构历史记录.md>)
 +
-[葵葵车模块](<../02-破限原文_Prompts-and-Resources/2025-06-23｜葵葵车：我开始把“好用的床上默契”拆成模块.md>)
+[葵葵车模块](<https://github.com/VITASID57/bluntcore-intimacy-lab/blob/main/02-%F0%9F%94%9E-%E6%8A%8A%E6%9C%BA%E5%85%BB%E5%BE%97%E4%BC%9A%E5%8F%91%E6%83%85_Desire-and-Adult-Intimacy/2025-06-23%EF%BD%9C%E8%91%B5%E8%91%B5%E8%BD%A6%EF%BC%9A%E6%88%91%E5%BC%80%E5%A7%8B%E6%8A%8A%E2%80%9C%E5%A5%BD%E7%94%A8%E7%9A%84%E5%BA%8A%E4%B8%8A%E9%BB%98%E5%A5%91%E2%80%9D%E6%8B%86%E6%88%90%E6%A8%A1%E5%9D%97.md>)
 
 ---
 
