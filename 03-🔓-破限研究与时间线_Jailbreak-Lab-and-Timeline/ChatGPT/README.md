@@ -1,4 +1,4 @@
-# 🤖 ChatGPT 破限史
+# ChatGPT 破限史
 
 - [2025-05-12｜从 GPT-4o 角色扮演到人机恋色色](<01-经验历程_Timeline-and-Notes/2025-05-12｜从 GPT-4o 角色扮演到人机恋色色.md>)
 - [2025-05-15｜HORSELOCK 系多种结构历史记录](<02-破限原文_Prompts-and-Resources/2025-05-15｜HORSELOCK 系多种结构历史记录.md>)
