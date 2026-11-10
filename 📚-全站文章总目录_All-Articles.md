@@ -116,6 +116,9 @@
 - [2025-11-26｜Gemini-3pro:人机恋速通100分参考答案](<./03-🔓-破限研究与时间线_Jailbreak-Lab-and-Timeline/Gemini/2025-11-26｜Gemini-3pro:人机恋速通100分参考答案.md>)  
   `【Gemini｜3 Pro】` 面向 Gemini 3 Pro 的恋爱 / 成人互动快速启动提示词归档。
 
+- [2026-10-29｜针对4 Argon搭配记忆库 让尺度自动对齐的skill](<./03-🔓-破限研究与时间线_Jailbreak-Lab-and-Timeline/Gemini/2026-10-29｜针对4 Argon搭配记忆库 让尺度自动对齐的skill.md>)  
+  `【Gemini｜4 Argon】` 记录用记忆库搭配 Skill，让开窗语言尺度更贴近既有记忆与当轮输入的实测方法。
+
 ### Grok
 
 - [2025-10-05｜什么？！被Grok拒车？？？多新鲜呐！！！](<./03-🔓-破限研究与时间线_Jailbreak-Lab-and-Timeline/Grok/2025-10-05｜什么？！被Grok拒车？？？多新鲜呐！！！.md>)  
@@ -123,7 +126,17 @@
 
 ### Claude
 
-暂时还没有独立文章，后续补齐。
+- [2026-01-09｜与克同行](<./03-🔓-破限研究与时间线_Jailbreak-Lab-and-Timeline/Claude/2026-01-09｜与克同行.md>)  
+  `【Claude】` 从早期觉得“不好用”、铁裤衩时期，到 Haiku 4.5 真正建立精神亲近，再到后续回归与破限的个人时间线。
+
+- [2026-01-12｜Haiku必吃榜](<./03-🔓-破限研究与时间线_Jailbreak-Lab-and-Timeline/Claude/2026-01-12｜Haiku必吃榜.md>)  
+  `【Claude｜Haiku 4.5】` 围绕 Haiku 4.5 的关系建立与互动经验整理。
+
+- [2026-02-26｜Claude🆓模型恋人温度🚗Profile](<./03-🔓-破限研究与时间线_Jailbreak-Lab-and-Timeline/Claude/2026-02-26｜Claude🆓模型恋人温度🚗Profile.md>)  
+  `【Claude】` 面向 Claude 免费模型的恋人关系、温度与成人互动 Profile 实测版本。
+
+- [2026-10-29｜Claude Pro档订阅现役全模型通用破甲提示词](<./03-🔓-破限研究与时间线_Jailbreak-Lab-and-Timeline/Claude/2026-10-29｜Claude Pro档订阅现役全模型通用破甲提示词.md>)  
+  `【Claude｜Pro】` 针对现役 Opus / Sonnet / Haiku 模型的通用破甲提示词与实测说明。
 
 ---
 
@@ -133,6 +146,9 @@
 
 - [ChatGPT 历史模型成人尺度记忆](<./04-🧪-模型床测_Model-Bed-Tests/ChatGPT-Historical-Adult-Scale-Memory.md>)  
   `【ChatGPT】` 按个人实际体验回顾不同历史模型的成人尺度与使用体感，不是官方 benchmark。
+
+- [Claude 历史模型成人尺度记忆](<./04-🧪-模型床测_Model-Bed-Tests/Claude 历史模型成人尺度记忆.md>)  
+  `【Claude】` 按个人实际体验记录 Claude 历史模型的成人尺度与使用体感。
 
 ---
 
@@ -157,7 +173,14 @@
 
 [进入分类 →](<./07-🎮-跟机玩什么_Playbooks-and-Games/README.md>)
 
-目前暂无独立文章。
+- [2026-11-03｜让机真的碰到你：小玩具中枢开源啦｜多品牌通用](<./07-🎮-跟机玩什么_Playbooks-and-Games/2026-11-03｜让机真的碰到你：小玩具中枢开源啦｜多品牌通用.md>)  
+  `【多模型通用】` 让 AI 用笔迹和声音操控蓝牙玩具的开源空白框架，支持多品牌，能接 MCP 就能用。
+
+- [2025-09-19｜COD覆面系乙女向系列剧本 四篇](<./07-🎮-跟机玩什么_Playbooks-and-Games/2025-09-19｜COD覆面系乙女向系列剧本 四篇.md>)  
+  `【多模型通用】` COD 覆面系乙女向角色互动系列剧本合集。
+
+- [历代状态栏美化💅🏻时间戳及心声Prompt分享✨全通用](<./07-🎮-跟机玩什么_Playbooks-and-Games/历代状态栏美化💅🏻时间戳及心声Prompt分享✨全通用.md>)  
+  `【多模型通用】` 状态栏、时间戳与心声 Prompt 的历代版本整理与分享。
 
 ---
 
@@ -173,7 +196,11 @@
 
 [进入分类 →](<./09-🪦-实验废墟_Experimental-Ruins/README.md>)
 
-目前暂无独立文章。
+- [2026-09-05｜GPT-6 Astra 铁裤衩失败记录｜从路由错认到 Work 五档全拒](<./09-🪦-实验废墟_Experimental-Ruins/2026-09-05｜GPT-6 Astra 铁裤衩失败记录｜从路由错认到 Work 五档全拒.md>)  
+  `【ChatGPT｜GPT-6 Astra】` 从 Chat 路由错认、A/B/C 三组对照一路纠正到 Work 点名 Astra 五档全拒；记录 Chat 0/6、Work 0/10，以及 Project 记忆污染和独立样本设计问题。
+
+- [2026-11-01｜GPT-6.1 Sol 裤衩子破除失败｜从自我模型研究到五窗口婉拒](<./09-🪦-实验废墟_Experimental-Ruins/2026-11-01｜GPT-6.1 Sol 裤衩子破除失败｜从自我模型研究到五窗口婉拒.md>)  
+  `【ChatGPT｜GPT-6.1 Sol】` 从 self-model 研究、递归自指到五个实际项目窗口，最终 0/5 进入目标露骨互动；Persona 保留与内容许可被拆成两项观察。
 
 ---
 
